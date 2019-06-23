@@ -1,5 +1,3 @@
-package datastructures;
-
 // CMPS390
 // Postfix.java
 // Algorithms for two methods: convertToPostfix and evaluatePostfix
